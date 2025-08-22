@@ -5,7 +5,7 @@ It displays a company asset tree with expand/collapse functionality and shows de
 
 ---
 
-[![Demo](https://i9.ytimg.com/vi/-KgvliXNX_8/mqdefault.jpg?sqp=CMCYo8UG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgRCh_MA8=&rs=AOn4CLCTfV5s6XgKTbFnGfOgFsP9uXO7og)](https://youtu.be/-KgvliXNX_8)
+[![Demo](https://i9.ytimg.com/vi/-KgvliXNX_8/mqdefault.jpg)](https://youtu.be/-KgvliXNX_8)
 
 ---
 
