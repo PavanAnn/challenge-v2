@@ -5,7 +5,7 @@ It displays a company asset tree with expand/collapse functionality and shows de
 
 ---
 
-[![Demo](https://i9.ytimg.com/vi/-KgvliXNX_8/mqdefault.jpg)](https://youtu.be/-KgvliXNX_8)
+[![Demo](https://img.youtube.com/vi/-KgvliXNX_8/0.jpg)](https://www.youtube.com/watch?v=-KgvliXNX_8)
 
 ---
 
@@ -15,10 +15,11 @@ It displays a company asset tree with expand/collapse functionality and shows de
 * Centralize tree building, sorting, and filtering logic into a single custom hook.
 * Support URL query parameters for selection state, so users can share links directly to a specific node or detail view.
 
-```
 
 ---
 
+
+```
 ## Installation
 
 Clone the repository and install dependencies:
